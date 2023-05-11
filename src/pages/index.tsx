@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ['latin'] })
 export default function Home() {
   return (
     <main>
-      
+      <h1>Welcome to ReachOut2Me</h1>
     </main>
   )
 }
